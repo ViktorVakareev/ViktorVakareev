@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ViktorVakareev
+- 👋 Hi, I’m @VictorVakareev
 - 👀 I’m interested in Programming, Software Testing, Graphic Design, Sports, Music
 - 🌱 I’m currently learning Java Programming, QA Automation
 - 💞️ I’m looking to collaborate on anything that helps improving my skills and knowledge. 
