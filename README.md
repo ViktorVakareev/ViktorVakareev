@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViktorVakareev
-- 👀 I’m interested in Programming, Testing Software, Graphic Design, Sports, Music
+- 👀 I’m interested in Programming, Software Testing, Graphic Design, Sports, Music
 - 🌱 I’m currently learning Java Programming, QA Automation
 - 💞️ I’m looking to collaborate on anything that helps improving my skills and knowledge. 
 - 📫 How to reach me v.vakareev@gmail.com
