@@ -1,8 +1,8 @@
 # Hi there, I'm Victor Vakareev 👋
 
-### Lead Test Automation Engineer | AI Quality & Agent Testing | .NET, Playwright & Python
+### Senior Test Automation Engineer | AI Quality & Agent Testing | .NET, Playwright & Python
 
-I am a Construction-Manager-turned-Lead-Automation-Engineer with a deep focus on production efficiency and system throughput. My mission is to bring the rigor of enterprise test automation to **non-deterministic AI systems**: testing LLM-powered agents, guarding their outputs, and building quality strategy for cross-functional teams shipping AI features.
+I am a Construction-Manager-turned-Senior-Test-Automation-Engineer with a deep focus on production efficiency and system throughput. My mission is to bring the rigor of enterprise test automation to **non-deterministic AI systems**: testing LLM-powered agents, guarding their outputs, and building quality strategy for cross-functional teams shipping AI features.
 
 ### 🛠️ What I do & How I code
 - **Modern Automation:** Architecting robust, isolated, and parallelized testing frameworks using **.NET (C#)** and **Playwright**.
